@@ -1,1 +1,2 @@
 Módulo de Usuarios: Perfiles y Roles
+Módulo de Usuarios: Registro y Login
